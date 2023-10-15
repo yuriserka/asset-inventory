@@ -1,6 +1,6 @@
-# Astride
+# Astride - Exercise
 
-**TODO: Add description**
+**Simple Asset inventory tracker**
 
 ## Installation
 
